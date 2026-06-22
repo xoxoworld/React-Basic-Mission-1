@@ -24,7 +24,6 @@ function App() {
       </main>
 
       <footer className="app-footer">
-        <div className="ticks"></div>
         <p className="footer-text">EZTECH Product Showcase</p>
       </footer>
     </div>
